@@ -11,7 +11,7 @@ function Workout() {
         {
             id:2,
             name:'Ajay',
-            role:'Angular developer'
+            role:'Angular js developer'
         }
     ])
     // step 2 
